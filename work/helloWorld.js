@@ -1,2 +1,2 @@
-console.log("Hello World from Olena !");
-console.log("Name: Olena");
+console.log("Hello World!");
+console.log("Hello World!");
